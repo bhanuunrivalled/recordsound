@@ -3,7 +3,7 @@
 Live translate your meetings in another language to english using Azure
 
 
-you have tp install the  following wheel package from below repository 
+you have to install the  following wheel package from below repository 
 
 https://github.com/intxcc/pyaudio_portaudio , just follow the instructions
 
